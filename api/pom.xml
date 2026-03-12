@@ -23,6 +23,8 @@
             <groupId>nl.dennismei</groupId>
             <artifactId>domain</artifactId>
         </dependency>
+
+<!--        Spring Boot-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
